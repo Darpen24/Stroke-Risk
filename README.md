@@ -1,2 +1,2 @@
-# Stroek-Risk
+# Stroke-Risk
 Power BI Dash
